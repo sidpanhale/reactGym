@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/reactGym/static/css/main.e6452d80.css",
+    "main.js": "/reactGym/static/js/main.6b9a26de.js",
+    "static/js/453.55f7cc10.chunk.js": "/reactGym/static/js/453.55f7cc10.chunk.js",
+    "static/media/banner.png": "/reactGym/static/media/banner.5209b5e92a864ca0c615.png",
+    "static/media/gym.png": "/reactGym/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/reactGym/index.html",
+    "main.e6452d80.css.map": "/reactGym/static/css/main.e6452d80.css.map",
+    "main.6b9a26de.js.map": "/reactGym/static/js/main.6b9a26de.js.map",
+    "453.55f7cc10.chunk.js.map": "/reactGym/static/js/453.55f7cc10.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6452d80.css",
+    "static/js/main.6b9a26de.js"
+  ]
+}
